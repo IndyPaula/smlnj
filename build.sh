@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 # Requires $srcdir (..) and $pkgdir (destdir) to be provided as arguments
 
